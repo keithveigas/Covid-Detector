@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962662372594",
+    "firebase_url": "https://covid-detector-3f7c9.firebaseio.com",
+    "project_id": "covid-detector-3f7c9",
+    "storage_bucket": "covid-detector-3f7c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962662372594:android:a45f0d4df7792aa8496c6b",
+        "android_client_info": {
+          "package_name": "com.crypton.covid_detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962662372594-6luvcmuahg5330vdbabeog3c0ocstcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkofvkcp0EWho1qUP7x0isJg04zw3fvS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962662372594-6luvcmuahg5330vdbabeog3c0ocstcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
